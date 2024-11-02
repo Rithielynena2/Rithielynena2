@@ -37,9 +37,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rithielynena2/Rithielynena2/output/snake.svg" alt="Snake animation" />
 
-###
 <!--
 **Rithielynena2/Rithielynena2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
